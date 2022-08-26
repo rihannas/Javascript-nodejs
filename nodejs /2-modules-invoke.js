@@ -12,7 +12,7 @@ sayHi('dipsey');
 // sayHi(lala);
 // This ^ will give you 'is not defined errors, so--
 // you have to either do const {lala, po}, when importing or--
-// remember names is an object, which you means you acces the values with keys-- 
+// remember names is an object, whic h you means you acces the values with keys-- 
 // like names.lala & names.po
 
 sayHi(names.lala);
